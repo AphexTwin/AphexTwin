@@ -1,4 +1,5 @@
-<img width="480" height="264" alt="giphy" src="https://github.com/user-attachments/assets/7b20e513-726f-45cc-a3db-094bb7d86462" />
+<img width="320" height="160" alt="giphy (1)" src="https://github.com/user-attachments/assets/d8f61aa2-8993-41c5-8f13-5cacea6c475d" />
+
 
 <!--
 **AphexTwin/AphexTwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
