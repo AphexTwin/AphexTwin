@@ -1,4 +1,4 @@
-<img width="320" height="160" alt="giphy (1)" src="https://github.com/user-attachments/assets/d8f61aa2-8993-41c5-8f13-5cacea6c475d" />
+<img width="200" height="200" alt="aphex-twin" src="https://github.com/user-attachments/assets/88f55a2a-2a11-48b4-ae71-1193e146fe4a" />
 
 
 <!--
