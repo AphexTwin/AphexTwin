@@ -1,8 +1,8 @@
+<img width="480" height="264" alt="giphy" src="https://github.com/user-attachments/assets/7b20e513-726f-45cc-a3db-094bb7d86462" />
 ## Hi there 👋
 
 <!--
 **AphexTwin/AphexTwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img width="480" height="264" alt="giphy" src="https://github.com/user-attachments/assets/6caada24-d9cb-471a-9325-9b8d648329e3" />
 
 Here are some ideas to get you started:
 
