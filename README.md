@@ -1,5 +1,6 @@
 <img width="200" height="200" alt="aphex-twin" src="https://github.com/user-attachments/assets/88f55a2a-2a11-48b4-ae71-1193e146fe4a" />
 
+I literally have no idea what im doing
 
 <!--
 **AphexTwin/AphexTwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
